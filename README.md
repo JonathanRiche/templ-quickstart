@@ -1,5 +1,7 @@
 # templ-quickstart
 
+This is a fork of the [templ-quickstart](https://github.com/Phillip-England/templ-quickstart) repo.
+
 ## Introduction
 
 templ-quickstart provides a quick and easy way to scaffold an Go http server. The tech stack included in this repo includes Go, HTMX, Templ, and Tailwind.

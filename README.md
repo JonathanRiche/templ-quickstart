@@ -72,6 +72,14 @@ air
 
 To configure air, you can modify .air.toml in the root of the project. (it will be auto-generated after the first time you run air in your repo)
 
+### Default Cron Jons
+
+This project comes with a few cron jobs to help you get started.
+The job bellow checks the status of a webste and will update a ms teams channel with the relavant status
+```bash
+cron/teamsServerStatus.sh -h
+```
+
 ## Project Overview
 
 This project has a few core concepts to help you get going, let's start with ./main.go
